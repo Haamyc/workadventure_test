@@ -58,7 +58,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/zapf_test\/zapf_test_world\/testbjoern#Astrokuppel_entry"
                 }],
