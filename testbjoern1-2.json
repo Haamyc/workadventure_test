@@ -177,9 +177,38 @@
          "width":128,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":15,
+         "name":"Object Layer 2",
+         "objects":[
+                {
+                 "height":56.8446712344545,
+                 "id":8,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "halign":"center",
+                     "text":"Zum\nObergschoss",
+                     "valign":"center",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":130.442933843851,
+                 "x":283.696082594426,
+                 "y":970.541275621833
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":14,
- "nextobjectid":1,
+ "nextlayerid":16,
+ "nextobjectid":9,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
