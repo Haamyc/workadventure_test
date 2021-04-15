@@ -150,7 +150,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/zapf_test\/zapf_test_world\/astrokuppel#OG2_entry"
                 }],
