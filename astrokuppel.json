@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/testbjoern1-2.json#[Astrokuppel_entry]"
+                 "value":"https:\/\/play.workadventu.re\/@\/zapf_test\/zapf_test_world\/testbjoern#[Astrokuppel_entry]"
                 }],
          "type":"tilelayer",
          "visible":true,

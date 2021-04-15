@@ -152,7 +152,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/astrokuppel.json#[OG2_entry]"
+                 "value":"https:\/\/play.workadventu.re\/@\/zapf_test\/zapf_test_world\/astrokuppel#[OG2_entry]"
                 }],
          "type":"tilelayer",
          "visible":true,
