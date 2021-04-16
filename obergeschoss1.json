@@ -174,6 +174,45 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":321,
+         "image":"office_90.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_90",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":577,
+         "image":"office_180.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_180",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":833,
+         "image":"office_270.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_270",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
