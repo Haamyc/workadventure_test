@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#Entry_TreppeWest_from_EG"
+                 "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#Entry_TreppeWest_from_UG"
                 }],
          "type":"tilelayer",
          "visible":true,
