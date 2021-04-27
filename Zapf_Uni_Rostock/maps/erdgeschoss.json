@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/ostsee#Entry_from_Erdgeschoss"
+                 "value":"\/@\/zapf\/zapf_world\/hro_warnemuende#Entry_from_Erdgeschoss"
                 }],
          "type":"tilelayer",
          "visible":true,

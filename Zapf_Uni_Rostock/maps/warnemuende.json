@@ -36,7 +36,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/erdgeschoss_new#Entry_from_Ostsee"
+                 "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#Entry_from_Ostsee"
                 }],
          "type":"tilelayer",
          "visible":true,
