@@ -61,7 +61,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/zapf\/zapf_world\/ostsee#Entry_from_Erdgeschoss"
+                 "value":"\/@\/zapf\/zapf_world\/ostsee#Entry_from_Erdgeschoss"
                 }],
          "type":"tilelayer",
          "visible":true,
