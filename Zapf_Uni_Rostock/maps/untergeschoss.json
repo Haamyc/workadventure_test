@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_untergeschoss#Entry_TreppeMitte_from_UG"
+                 "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#Entry_TreppeMitte_from_UG"
                 }],
          "type":"tilelayer",
          "visible":true,
