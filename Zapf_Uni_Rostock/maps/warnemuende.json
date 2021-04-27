@@ -34,7 +34,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/@\/zapf\/zapf_world\/erdgeschoss_new#Entry_from_Ostsee"
                 }],
