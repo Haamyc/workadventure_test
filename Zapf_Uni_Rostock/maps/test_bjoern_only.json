@@ -251,12 +251,12 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"audioloop",
+                 "name":"audioLoop",
                  "type":"bool",
                  "value":true
                 }, 
                 {
-                 "name":"playaudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/drive.google.com\/file\/d\/1Y8Z2SZMLtTewcjhRLHja2rLIYHChZkEy\/view?usp=sharing"
                 }],
@@ -297,7 +297,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playaudio",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/Klo1.m4a"
                 }],
