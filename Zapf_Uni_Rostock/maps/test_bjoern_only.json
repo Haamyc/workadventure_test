@@ -403,6 +403,33 @@
         }, 
         {
          "draworder":"topdown",
+         "id":52,
+         "name":"texte",
+         "objects":[
+                {
+                 "height":18.84375,
+                 "id":1,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":82.078125,
+                 "x":985.248776055497,
+                 "y":390.206377788104
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":3,
          "name":"floorLayer",
          "objects":[],
@@ -484,8 +511,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":52,
- "nextobjectid":1,
+ "nextlayerid":53,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
