@@ -47,7 +47,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_TreppeOst_from_1OG"
                 }],
@@ -65,7 +65,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_TreppeWest_from_1OG"
                 }],
