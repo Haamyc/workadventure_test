@@ -466,6 +466,12 @@
                  "height":63.0642591609134,
                  "id":4,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"CausesDeathToWalkHere",
+                         "type":"string",
+                         "value":"Yes id done it"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
