@@ -193,66 +193,6 @@
          "width":73,
          "x":0,
          "y":0
-        }, 
-        {
-         "id":21,
-         "layers":[],
-         "name":"Deko",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":22,
-         "layers":[],
-         "name":"BBB",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":23,
-         "layers":[],
-         "name":"Jitsi",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":24,
-         "layers":[],
-         "name":"Exit",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":25,
-         "layers":[],
-         "name":"Entry",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":26,
-         "layers":[],
-         "name":"Text",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
         }],
  "nextlayerid":37,
  "nextobjectid":2,
