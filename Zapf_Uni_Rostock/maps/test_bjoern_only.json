@@ -258,7 +258,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/drive.google.com\/file\/d\/1Y8Z2SZMLtTewcjhRLHja2rLIYHChZkEy\/view?usp=sharing"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/Klo1.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -364,12 +364,12 @@
                 {
                  "name":"audioLoop",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"playAudio",
-                 "type":"file",
-                 "value":"..\/sounds\/water.mp3"
+                 "type":"string",
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/water.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
