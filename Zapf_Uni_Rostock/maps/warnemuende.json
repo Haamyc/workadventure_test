@@ -34,7 +34,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#Entry_from_Ostsee"
                 }],
