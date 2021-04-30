@@ -139,7 +139,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_TreppeWest_from_1OGN"
+                 "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#Entry_TreppeWest_from_1OG"
                 }],
          "type":"tilelayer",
          "visible":true,
