@@ -268,7 +268,7 @@
          "name":"Treppen und Sanit\u00e4r",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":73,
          "x":0,
          "y":0
@@ -280,7 +280,7 @@
          "name":"Raeume_1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":73,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"Raueme_2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":73,
          "x":0,
          "y":0
@@ -327,7 +327,7 @@
          "name":"Tuerrahmen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":73,
          "x":0,
          "y":0
