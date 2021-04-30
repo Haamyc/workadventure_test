@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_ergeschoss#\/Entry_TreppeOst_from_1OG"
+                 "value":"\/@\/zapf\/zapf_world\/hro_erdgeschoss#\/Entry_TreppeOst_from_1OG"
                 }],
          "type":"tilelayer",
          "visible":true,
