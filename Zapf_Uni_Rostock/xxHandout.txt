@@ -37,22 +37,10 @@ To-Do-List
 - Türbereiche überarbeiten mit Blöcken über Floorlayer
 
 
-
-Exit/Entry-Bezeichnung (besseren Ideen?)
-egD_to_og2D = Exit vom Ergeschoss am Fahrstuhl wenn man zum Obergeschoss 2 möchte
-egD_from_og2D = Entry im Ergeschoss am Fahrstuhl wenn man vom Obergeschoss 2 kommt
-
-A = Treppe zwischen OG2 und Astrokuppel
-B = hinteres Treppenhaus 
-C = Treppenhaus am Eingangs
-D = Fahrstuhl
-E = Lange Treppe vom EG zum UG
-F = HS3 ins UG
-G = HS2 ins UG
-H = HS1 in Vorbereitungsraum UG
-I = HSI ins UG
-J = Haupteingang zum Institut
-K = Nebeneingang zum Institut
+Exit funktioniert nicht
+1OG_Ost -> 2OG_Ost
+1OG_Ost -> EG_Ost 
+1OG_West -> 2OG_West
 
 
 
