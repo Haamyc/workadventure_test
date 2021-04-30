@@ -1,6 +1,8 @@
-Custom Properties
+Custom Properties (Tiles)
 - collides (bool) -> true: Blöcke sind mehr passierbar
 - silent (bool) -> true: Blöcke verbieten das öffnen von Videokonferenzen
+
+Custom Properties (Layer)
 - openWebsite (string) -> öffnet Website, URL angeben (bei YouTube muss es embed-Link sein)
 - openWebsiteTrigger (string) -> „onaction“
 - exitUrl (string) -> URL vom Zielobjekt angeben
@@ -10,38 +12,34 @@ Custom Properties
 
 Layer-structure
 floorLayer (Object Layer)
-Enten (Groupe Layer)
-Texte( Groupe Layer)
-Entry (Groupe Layer)
-Exit( Groupe Layer)
-BBB( Groupe Layer)
-Jitsi( Groupe Layer)
-BBB (Groupe Layer)
-Deko (Groupe Layer)
-	-> Enten (??? Layer)
 Grundriss (Tile Layer)
 Boden (Tile Layer)
 start (Tile Layer)
 
 
 To-Do-List
-- Amphitheater überarbeiten und verkleinern
-- Jitsi/BBB-Räume einbinden -> Links?
-- Exit/Entry-Verlinkungen herstellen
-- 1. OG Zapf-Orga-Raum
-- 2.OG    Awareness-Räume
-- Bäume/Büsche designen
+X Amphitheater überarbeiten und verkleinern
+X Jitsi/BBB-Räume einbinden -> Links?
+X Exit/Entry-Verlinkungen herstellen
+X 1. OG Zapf-Orga-Raum
+X 2.OG    Awareness-Räume
+X Bäume/Büsche designen
+- BBB-Räume einbinden in die HS -> Links? 
+- Entonia pixel + einbetten -> Foto
 
-- Logos der Koop-Partner Pixeln 
-- Soundeffekte Toillete raussuchen & einbinden
-- Türbereiche überarbeiten mit Blöcken über Floorlayer
+X Logos der Koop-Partner Pixeln 
+- Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
+X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 
 
-Exit funktioniert nicht
-1OG_Ost -> 2OG_Ost
-1OG_Ost -> EG_Ost 
-1OG_West -> 2OG_West
 
+Feature/Erklärungen
+- Challeng: Finde alle 42 Enten (+ Entonia) in/am Rostocker Institut
+- 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
+- 1 Zapf-Orga-Raum: Raum mit dunklem Boden im 1. OG gegenüber den Toiletten
+- 3 Hörsäle im Erdgeschoss (vom Untergeschoss kein Zutritt) mit BBB-Räumen
+- 10 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen
+- Zugang zum Strand und Greifswald im Amphitheater 
 
 
 Tilset-Objects
