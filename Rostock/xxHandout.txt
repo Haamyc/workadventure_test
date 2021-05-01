@@ -1,0 +1,56 @@
+Custom Properties (Tiles)
+- collides (bool) -> true: Blöcke sind mehr passierbar
+- silent (bool) -> true: Blöcke verbieten das öffnen von Videokonferenzen
+
+Custom Properties (Layer)
+- openWebsite (string) -> öffnet Website, URL angeben (bei YouTube muss es embed-Link sein)
+- openWebsiteTrigger (string) -> „onaction“
+- exitUrl (string) -> URL vom Zielobjekt angeben
+- startLayer (bool) -> true Startobjekt wenn man von anderer URL kommt und darauf referenziert wird
+
+
+
+Layer-structure
+floorLayer (Object Layer)
+Grundriss (Tile Layer)
+Boden (Tile Layer)
+start (Tile Layer)
+
+
+To-Do-List
+X Amphitheater überarbeiten und verkleinern
+X Jitsi/BBB-Räume einbinden -> Links?
+X Exit/Entry-Verlinkungen herstellen
+X 1. OG Zapf-Orga-Raum
+X 2.OG    Awareness-Räume
+X Bäume/Büsche designen
+- BBB-Räume einbinden in die HS -> Links? 
+- Entonia pixel + einbetten -> Foto
+
+X Logos der Koop-Partner Pixeln 
+- Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
+X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
+
+
+
+Feature/Erklärungen
+- Challeng: Finde alle 42 Enten (+ Entonia) in/am Rostocker Institut
+- 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
+- 1 Zapf-Orga-Raum: Raum mit dunklem Boden im 1. OG gegenüber den Toiletten
+- 3 Hörsäle im Erdgeschoss (vom Untergeschoss kein Zutritt) mit BBB-Räumen
+- 10 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen
+- Zugang zum Strand und Greifswald im Amphitheater 
+
+
+Tilset-Objects
+Tür
+Fenster
+Toilette
+Waschbecken
+Stühle/Bänke/Schreibtischstuhl
+Tische
+PC
+Tafel
+Pflanzen
+Regele
+Schränk
