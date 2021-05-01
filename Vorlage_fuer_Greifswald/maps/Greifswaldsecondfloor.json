@@ -281,6 +281,19 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":1288,
+         "image":"..\/tilesets\/tileset_Tristan.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"tileset_Tristan",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
