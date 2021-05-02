@@ -26,12 +26,20 @@ X 2.OG    Awareness-Räume
 X Bäume/Büsche designen
 - BBB-Räume einbinden in die HS -> Links? 
 - Entonia pixel + einbetten -> Foto
-- Jitsi-Räume markieren
 - G bei senkrechten Wegweisern überarbeiten
 - Wellen in Warnemünde hinzufügen
 - Port in Warnemünde verbessern 
 - Link nach Greifswald einfügen und Sperrblöcke entfernen 
 - Texte Pixeln 
+- Enten als Layer separieren
+- Homepage ins Foyer HGW/HRO einfügen
+- AK-Plan ins Foyer HGW/HRO einfügen
+- Telegramchannel ins Foyer HGW/HRO einfügen
+- Partykeller Link nach HGW in UG Treppenhaus 
+- alle Räume als Jitsi (Orgaraum kein Jitsi, Orgaschild hinzufügen, Boden hervorheben)
+- AK-Räume markieren 
+- Silenträume implementieren (1x pro Map) und markieren 
+- 2x Neue Karte für Awarenessräume (kein Jitsi)
 
 X Logos der Koop-Partner Pixeln 
 - Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
