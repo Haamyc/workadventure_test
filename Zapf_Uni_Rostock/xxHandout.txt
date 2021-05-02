@@ -85,10 +85,6 @@ Warnemünde (WM):
 - Räume: 1x Jitsi
 
 
-/@/zapf/zapf_world/hgw_partykeller#Entry_Partykeller_Treppe_West_from_HRO
-
-
-Zapf_Uni_Greifswald/maps/Greifswaldpartykeller.json
 
 
 
