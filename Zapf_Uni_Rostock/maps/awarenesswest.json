@@ -28,6 +28,42 @@
          "y":0
         }, 
         {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 89, 89, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":6,
+         "id":24,
+         "name":"Entry_AwarenessWest_from_OG2",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 90, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":6,
+         "id":25,
+         "name":"Exit_AwarenessWest_to_OG2",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_West_from_AwarenessWest"
+                }],
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }, 
+        {
          "data":[28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28, 28],
          "height":6,
          "id":20,
@@ -64,58 +100,10 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":24,
-         "name":"Entry_AwarenessWest_from_OG2",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"startLayer",
-                 "type":"bool",
-                 "value":true
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":8,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":25,
-         "name":"Exit_AwarenessWest_to_OG2",
-         "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_West_from_AwarenessWest"
-                }],
-         "type":"tilelayer",
-         "visible":true,
-         "width":8,
-         "x":0,
-         "y":0
-        }, 
-        {
          "data":[0, 0, 0, 0, 0, 0, 0, 226, 0, 145, 145, 0, 0, 145, 145, 0, 295, 219, 236, 257, 257, 237, 222, 0, 311, 251, 252, 257, 257, 253, 254, 0, 0, 267, 268, 257, 257, 269, 270, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":6,
          "id":22,
          "name":"Deko",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":8,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":6,
-         "id":19,
-         "name":"Grundriss",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
