@@ -26,7 +26,7 @@ X 2.OG    Awareness-Räume
 X Bäume/Büsche designen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
 - Entonia pixel + einbetten -> Foto
-- Texte Pixeln 
+- Texte Pixeln (HGW, HRO, Strand (lang))
 X Enten als Layer separieren
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
@@ -50,7 +50,8 @@ X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 Feature/Erklärungen
 - Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut 
 - 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
-- 1 Zapf-Orga-Raum: Raum mit dunklem Boden im 1. OG gegenüber den Toiletten
+- 1 Raum der Stille pro Etage mit blauem Boden
+- 1 Zapf-Orga-Raum: Raum mit grünem Boden im 1. OG gegenüber den Toiletten
 - 3 Hörsäle im Erdgeschoss (vom Untergeschoss kein Zutritt) mit BBB-Räumen
 - 10 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen
 - Zugang zum Strand und Greifswald im Amphitheater 
