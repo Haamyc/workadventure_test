@@ -29,8 +29,9 @@ X Bäume/Büsche designen
 X Enten als Layer separieren
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
-- Telegramchannel ins Foyer HGW/HRO einfügen
-- exitUrl-Link Partykeller und HGW Außen einfügen (Sperrblöcke entfernen)
+- Telegram-Channel ins Foyer HGW/HRO einfügen
+X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
+- exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
 - alle Räume als Jitsi 
 - Orgaraum kein Jitsi, Orgaschild (2-3*1) hinzufügen, Boden hervorheben
 - alle Räume nummerieren (1*1)
@@ -48,6 +49,8 @@ X Phi im EG überarbeiten
 - G bei senkrechten Wegweisern überarbeiten
 - Port in Warnemünde verbessern 
 - Etagenschilder Pixeln und einfügen 
+- 2x Awarenesskarten Umgebung hinzufügen 
+
 
 Feature/Erklärungen
 - Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut 
