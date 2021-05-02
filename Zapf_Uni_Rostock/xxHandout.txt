@@ -31,6 +31,7 @@ X Bäume/Büsche designen
 - Wellen in Warnemünde hinzufügen
 - Port in Warnemünde verbessern 
 - Link nach Greifswald einfügen und Sperrblöcke entfernen 
+- Texte Pixeln 
 
 X Logos der Koop-Partner Pixeln 
 - Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
