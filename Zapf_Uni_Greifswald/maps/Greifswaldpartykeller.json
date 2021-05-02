@@ -60,7 +60,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hgw_Partykeller#Entry_fromPartykellerOst_toGroundlevelHGW"
+                 "value":"\/@\/zapf\/zapf_world\/hgw_partykeller#Entry_fromPartykellerOst_toGroundlevelHGW"
                 }],
          "type":"tilelayer",
          "visible":true,
