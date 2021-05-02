@@ -26,13 +26,12 @@ X 2.OG    Awareness-Räume
 X Bäume/Büsche designen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
 - Entonia pixel + einbetten -> Foto
-- Link nach Greifswald einfügen und Sperrblöcke entfernen 
 - Texte Pixeln 
 X Enten als Layer separieren
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
 - Telegramchannel ins Foyer HGW/HRO einfügen
-- Partykeller Link nach HGW in UG Treppenhaus 
+- exitUrl-Link Partykeller und HGW Außen einfügen (Sperrblöcke entfernen)
 - alle Räume als Jitsi (Orgaraum kein Jitsi, Orgaschild hinzufügen, Boden hervorheben)
 - AK-Räume markieren 
 - Silenträume implementieren (1x pro Map) und markieren 
