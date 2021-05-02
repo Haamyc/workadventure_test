@@ -40,6 +40,7 @@ X Bäume/Büsche designen
 - AK-Räume markieren 
 - Silenträume implementieren (1x pro Map) und markieren 
 - 2x Neue Karte für Awarenessräume (kein Jitsi)
+- 3 HS mit BBB 
 
 X Logos der Koop-Partner Pixeln 
 - Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
