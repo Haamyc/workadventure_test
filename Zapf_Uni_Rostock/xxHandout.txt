@@ -24,14 +24,11 @@ X Exit/Entry-Verlinkungen herstellen
 X 1. OG Zapf-Orga-Raum
 X 2.OG    Awareness-Räume
 X Bäume/Büsche designen
-- BBB-Räume einbinden in die HS -> Links? 
+- BBB-Räume einbinden in die HS (3x) -> Links? 
 - Entonia pixel + einbetten -> Foto
-- G bei senkrechten Wegweisern überarbeiten
-- Wellen in Warnemünde hinzufügen
-- Port in Warnemünde verbessern 
 - Link nach Greifswald einfügen und Sperrblöcke entfernen 
 - Texte Pixeln 
-- Enten als Layer separieren
+X Enten als Layer separieren
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
 - Telegramchannel ins Foyer HGW/HRO einfügen
@@ -40,16 +37,19 @@ X Bäume/Büsche designen
 - AK-Räume markieren 
 - Silenträume implementieren (1x pro Map) und markieren 
 - 2x Neue Karte für Awarenessräume (kein Jitsi)
-- 3 HS mit BBB 
 
+
+Optional
 X Logos der Koop-Partner Pixeln 
 - Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
 X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
-
+- Wellen in Warnemünde hinzufügen
+- G bei senkrechten Wegweisern überarbeiten
+- Port in Warnemünde verbessern 
 
 
 Feature/Erklärungen
-- Challeng: Finde alle 42 Enten (+ Entonia) in/am Rostocker Institut
+- Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut 
 - 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
 - 1 Zapf-Orga-Raum: Raum mit dunklem Boden im 1. OG gegenüber den Toiletten
 - 3 Hörsäle im Erdgeschoss (vom Untergeschoss kein Zutritt) mit BBB-Räumen
