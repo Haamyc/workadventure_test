@@ -96,7 +96,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hgw_erdgeschoss#Entry_fromPartykellerOst_toHLHGW"
+                 "value":"\/@\/zapf\/zapf_world\/hgw_erdgeschoss#Entry_fromPartykellerOst_toGLHGW"
                 }],
          "type":"tilelayer",
          "visible":true,
