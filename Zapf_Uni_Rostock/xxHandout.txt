@@ -35,8 +35,8 @@ X Enten als Layer separieren
 - Orgaraum kein Jitsi, Orgaschild (2-3*1) hinzufügen, Boden hervorheben
 - alle Räume nummerieren (1*1)
 - AK-Räume markieren 
-- Silenträume implementieren (1x pro Map) und markieren 
-- 2x Neue Karte für Awarenessräume (kein Jitsi)
+X Silenträume implementieren (1x pro Map) und markieren 
+X 2x Neue Karte für Awarenessräume (kein Jitsi)
 
 
 Optional
