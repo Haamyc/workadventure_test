@@ -55,7 +55,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_West_from_AwarenessOst"
+                 "value":"\/@\/zapf\/zapf_world\/hro_obergeschoss2#Entry_Ost_from_AwarenessOst"
                 }],
          "type":"tilelayer",
          "visible":true,
