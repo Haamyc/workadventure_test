@@ -26,13 +26,15 @@ X 2.OG    Awareness-Räume
 X Bäume/Büsche designen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
 - Entonia pixel + einbetten -> Foto
-- Texte Pixeln (HGW, HRO, Strand (lang))
+- Texte Pixeln (HGW, HRO, Meer (lang*1-2))
 X Enten als Layer separieren
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
 - Telegramchannel ins Foyer HGW/HRO einfügen
 - exitUrl-Link Partykeller und HGW Außen einfügen (Sperrblöcke entfernen)
-- alle Räume als Jitsi (Orgaraum kein Jitsi, Orgaschild hinzufügen, Boden hervorheben)
+- alle Räume als Jitsi 
+- Orgaraum kein Jitsi, Orgaschild (2-3*1) hinzufügen, Boden hervorheben
+- alle Räume nummerieren (1*1)
 - AK-Räume markieren 
 - Silenträume implementieren (1x pro Map) und markieren 
 - 2x Neue Karte für Awarenessräume (kein Jitsi)
@@ -45,7 +47,7 @@ X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 - Wellen in Warnemünde hinzufügen
 - G bei senkrechten Wegweisern überarbeiten
 - Port in Warnemünde verbessern 
-
+- Etagenschilder Pixeln und einfügen 
 
 Feature/Erklärungen
 - Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut 
