@@ -9,7 +9,6 @@ Custom Properties (Layer)
 - startLayer (bool) -> true Startobjekt wenn man von anderer URL kommt und darauf referenziert wird
 
 
-
 Layer-structure
 floorLayer (Object Layer)
 Grundriss (Tile Layer)
@@ -45,6 +44,7 @@ X Logos der Koop-Partner Pixeln
 - Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
 X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 - Wellen in Warnemünde hinzufügen
+X Phi im EG überarbeiten
 - G bei senkrechten Wegweisern überarbeiten
 - Port in Warnemünde verbessern 
 - Etagenschilder Pixeln und einfügen 
@@ -59,15 +59,40 @@ Feature/Erklärungen
 - Zugang zum Strand und Greifswald im Amphitheater 
 
 
-Tilset-Objects
-Tür
-Fenster
-Toilette
-Waschbecken
-Stühle/Bänke/Schreibtischstuhl
-Tische
-PC
-Tafel
-Pflanzen
-Regele
-Schränk
+Ebeneerklärung (noch nicht alles umgesetzt): 
+
+Amphitheater (AT): 
+- Zugänge: HGW, WM, EG
+
+Untergeschoss (UG)
+- Zugänge: EG, Partykeller
+- Räume: 6x Jitsi, 1x Silent
+
+Erdgeschoss (EG):
+- Zugänge: OG1, UG, AT
+- Räume: 3x BBB, 2x Jitsi, 1x Silent
+
+1. Obergeschoss (OG1): 
+- Zugänge: OG2, EG
+- Räume: 1x Orga, 9x Jitsi, 1x Silent
+
+2. Obgerschoss (OG2):
+- Zugänge: OG1, Awareeness1, Awareeness2
+- Räume: 9x Jitsi, 1x Silent, (2x Awareness)
+
+Warnemünde (WM):
+- Zugänge: AT
+- Räume: 1x Jitsi
+
+
+/@/zapf/zapf_world/Greifswaldpartykeller#Entry_Partykeller_Treppe_West_from_HRO
+
+
+
+
+
+
+
+
+
+
