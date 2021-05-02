@@ -109,7 +109,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/greifswaldpartykeller#Entry_Partykeller_Treppe_West_from_HRO"
+                 "value":"\/@\/zapf\/zapf_world\/hgw_partykeller#Entry_Partykeller_Treppe_West_from_HRO"
                 }],
          "type":"tilelayer",
          "visible":true,
