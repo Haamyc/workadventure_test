@@ -56,6 +56,12 @@
          "id":41,
          "name":"Entry_H_FL_to_SL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -68,6 +74,12 @@
          "id":42,
          "name":"Exit_H_SL_to_FL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/zapf\/zapf_world\/hgw_obergeschoss1#Entry_H_SL_to_FL"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -80,6 +92,12 @@
          "id":44,
          "name":"Entry_SO_FL_to_SL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -92,6 +110,12 @@
          "id":43,
          "name":"Exit_SO_SL_to_FL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/@\/zapf\/zapf_world\/hgw_obergeschoss1#Entry_SO_SL_to_FL"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -104,6 +128,12 @@
          "id":46,
          "name":"Entry_SO_TL_to_SL",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
