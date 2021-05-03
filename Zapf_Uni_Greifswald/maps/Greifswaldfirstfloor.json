@@ -198,7 +198,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hgw_obergeschoss1#Entry_H_SL_to_FL"
+                 "value":"\/@\/zapf\/zapf_world\/hgw_obergeschoss2#Entry_H_FL_to_SL"
                 }],
          "type":"tilelayer",
          "visible":true,
