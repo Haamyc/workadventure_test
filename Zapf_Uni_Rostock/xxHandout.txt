@@ -23,30 +23,31 @@ X Exit/Entry-Verlinkungen herstellen
 X 1. OG Zapf-Orga-Raum
 X 2.OG    Awareness-Räume
 X Bäume/Büsche designen
-- BBB-Räume einbinden in die HS (3x) -> Links? 
-- Entonia pixel + einbetten -> Foto
-- Texte Pixeln (HGW, HRO, Meer (lang*1-2))
+X Texte Pixeln (HGW, HRO, Meer (lang*1-2))
 X Enten als Layer separieren
-- Homepage ins Foyer HGW/HRO einfügen
-- AK-Plan ins Foyer HGW/HRO einfügen
-X Telegram-Channel ins Foyer HGW/HRO einfügen (funktioniert nicht)
-X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
-- exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
 X alle Räume als Jitsi 
-- Orgaraum kein Jitsi, Orgaschild (2-3*1) hinzufügen, Boden hervorheben
+X Orgaraum kein Jitsi, Orgaschild (2-3*1) hinzufügen, Boden hervorheben
 X alle Räume nummerieren (1*1)
-- AK-Räume markieren 
 X Silenträume implementieren (1x pro Map) und markieren 
 X 2x Neue Karte für Awarenessräume (kein Jitsi)
+X Telegram-Channel ins Foyer HGW/HRO einfügen (funktioniert nicht)
+X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
+- Homepage ins Foyer HGW/HRO einfügen
+- AK-Plan ins Foyer HGW/HRO einfügen
+- BBB-Räume einbinden in die HS (3x) -> Links? 
+- exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
+- Entonia pixel + einbetten -> Foto
+- AK-Räume markieren 
+
 
 
 Optional
 X Logos der Koop-Partner Pixeln 
-- Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
+X Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
 X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
-- Wellen in Warnemünde hinzufügen
 X Phi im EG überarbeiten
 X G bei senkrechten Wegweisern überarbeiten
+- Wellen in Warnemünde hinzufügen
 - Port/Strandhaus in Warnemünde verbessern 
 - Etagenschilder Pixeln und einfügen 
 - 2x Awarenesskarten Umgebung hinzufügen 
