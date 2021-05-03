@@ -63,7 +63,7 @@ Feature/Erklärungen
 - Zugang zum Strand und Greifswald im Amphitheater 
 
 
-Ebeneerklärung (noch nicht alles umgesetzt): 
+Ebenenerklärung (noch nicht alles umgesetzt): 
 
 Amphitheater (AT): 
 - Zugänge: HGW, WM, EG
