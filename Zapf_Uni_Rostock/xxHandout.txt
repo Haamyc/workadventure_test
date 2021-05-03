@@ -46,8 +46,8 @@ X Logos der Koop-Partner Pixeln
 X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 - Wellen in Warnemünde hinzufügen
 X Phi im EG überarbeiten
-- G bei senkrechten Wegweisern überarbeiten
-- Port in Warnemünde verbessern 
+X G bei senkrechten Wegweisern überarbeiten
+- Port/Strandhaus in Warnemünde verbessern 
 - Etagenschilder Pixeln und einfügen 
 - 2x Awarenesskarten Umgebung hinzufügen 
 
@@ -77,7 +77,7 @@ Erdgeschoss (EG):
 
 1. Obergeschoss (OG1): 
 - Zugänge: OG2, EG
-- Räume: 1x Orga, 9x Jitsi, 1x Silent
+- Räume: 1x Orga, 10x Jitsi, 1x Silent
 
 2. Obgerschoss (OG2):
 - Zugänge: OG1, Awareeness1, Awareeness2
