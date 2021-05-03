@@ -29,12 +29,12 @@ X Bäume/Büsche designen
 X Enten als Layer separieren
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
-- Telegram-Channel ins Foyer HGW/HRO einfügen
+X Telegram-Channel ins Foyer HGW/HRO einfügen (funktioniert nicht)
 X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
 - exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
-- alle Räume als Jitsi 
+X alle Räume als Jitsi 
 - Orgaraum kein Jitsi, Orgaschild (2-3*1) hinzufügen, Boden hervorheben
-- alle Räume nummerieren (1*1)
+X alle Räume nummerieren (1*1)
 - AK-Räume markieren 
 X Silenträume implementieren (1x pro Map) und markieren 
 X 2x Neue Karte für Awarenessräume (kein Jitsi)
