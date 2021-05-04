@@ -32,10 +32,11 @@ X Silenträume implementieren (1x pro Map) und markieren
 X 2x Neue Karte für Awarenessräume (kein Jitsi)
 X Telegram-Channel ins Foyer HGW/HRO einfügen (funktioniert nicht)
 X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
+X exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
+
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
-- exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
 - Entonia pixel + einbetten -> Foto
 - AK-Räume markieren 
 
@@ -59,7 +60,7 @@ Feature/Erklärungen
 - 1 Raum der Stille pro Etage mit blauem Boden
 - 1 Zapf-Orga-Raum: Raum mit grünem Boden im 1. OG gegenüber den Toiletten
 - 3 Hörsäle im Erdgeschoss (vom Untergeschoss kein Zutritt) mit BBB-Räumen
-- 10 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen
+- 27 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen für Arbeitskreise oder größere Plauschgruppen 
 - Zugang zum Strand und Greifswald im Amphitheater 
 
 
