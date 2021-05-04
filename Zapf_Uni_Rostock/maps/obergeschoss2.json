@@ -157,7 +157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_awarenesswest#Entry_AwarenessWest2_fromOG2"
+                 "value":"\/@\/zapf\/zapf_world\/hro_awarenesswest#Entry_AwarenessWest2_from_OG2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/zapf\/zapf_world\/hro_awarenesswest#Entry_AwarenessWest1_fromOG2"
+                 "value":"\/@\/zapf\/zapf_world\/hro_awarenesswest#Entry_AwarenessWest1_from_OG2"
                 }],
          "type":"tilelayer",
          "visible":true,
