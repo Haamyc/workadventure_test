@@ -33,12 +33,13 @@ X 2x Neue Karte für Awarenessräume (kein Jitsi)
 X Telegram-Channel ins Foyer HGW/HRO einfügen (funktioniert nicht)
 X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
 X exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
+X AK-Räume markieren 
 
 - Homepage ins Foyer HGW/HRO einfügen
 - AK-Plan ins Foyer HGW/HRO einfügen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
 - Entonia pixel + einbetten -> Foto
-- AK-Räume markieren 
+
 
 
 
