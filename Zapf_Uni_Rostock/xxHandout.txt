@@ -50,9 +50,10 @@ X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 X Phi im EG überarbeiten
 X G bei senkrechten Wegweisern überarbeiten
 X Wellen in Warnemünde hinzufügen
+X 2x Awarenesskarten Umgebung hinzufügen 
 - Port/Strandhaus in Warnemünde verbessern 
 - Etagenschilder Pixeln und einfügen 
-- 2x Awarenesskarten Umgebung hinzufügen 
+
 
 
 Feature/Erklärungen
