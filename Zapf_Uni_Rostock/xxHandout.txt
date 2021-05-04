@@ -60,7 +60,8 @@ Feature/Erklärungen
 - 1 Raum der Stille pro Etage mit blauem Boden
 - 1 Zapf-Orga-Raum: Raum mit grünem Boden im 1. OG gegenüber den Toiletten
 - 3 Hörsäle im Erdgeschoss (vom Untergeschoss kein Zutritt) mit BBB-Räumen
-- 27 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen für Arbeitskreise oder größere Plauschgruppen 
+- 27 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen 
+   -> 10 Stück mit gelben Türen für die Arbeitskreise ausgewiesen  
 - Zugang zum Strand und Greifswald im Amphitheater 
 
 
