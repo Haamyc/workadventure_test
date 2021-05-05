@@ -374,6 +374,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.test.de"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -392,6 +397,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/talk.fffutu.re\/b\/ros-3mp-qdm"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
