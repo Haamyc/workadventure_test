@@ -2,6 +2,7 @@ Custom Properties (Tiles)
 - collides (bool) -> true: Blöcke sind mehr passierbar
 - silent (bool) -> true: Blöcke verbieten das öffnen von Videokonferenzen
 
+
 Custom Properties (Layer)
 - openWebsite (string) -> öffnet Website, URL angeben (bei YouTube muss es embed-Link sein)
 - openWebsiteTrigger (string) -> „onaction“
