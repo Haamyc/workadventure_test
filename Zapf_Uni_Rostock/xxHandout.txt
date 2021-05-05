@@ -40,6 +40,7 @@ X AK-Räume markieren
 - AK-Plan ins Foyer HGW/HRO einfügen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
 - Entonia pixel + einbetten -> Foto
+- 
 
 
 https://ostsee.zapf.in/programm/
@@ -101,10 +102,33 @@ Warnemünde (WM):
 
 
 
+OS X
+Safari: 
+	BBB: weißer Bildschirm
+	normale Website: 
+	Sound: klappt nicht
+
+Firefox: 
+	BBB: klappt als neuer Tab
+	normale Website: klappt
+	Sound: klappt
+
+Chrome: 
+	BBB: Fehler (Verbindung abgelehnt)
+	normale Website: weißer Bildschirm
+	Sound: klappt
 
 
+Windows 
+Chrome: 
+	BBB: klappt nicht
+	normale Website: klappt
+	Sound: klappt
 
-
+Firefox:
+	BBB: klappt nicht
+	normale Website: klappt
+	Sound: klappt
 
 
 
