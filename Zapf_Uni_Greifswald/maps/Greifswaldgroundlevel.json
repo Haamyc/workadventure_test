@@ -413,7 +413,7 @@
  "nextobjectid":14,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -680,9 +680,22 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":1544,
+         "image":"..\/tilesets\/pfeile.png",
+         "imageheight":256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"pfeile",
+         "spacing":0,
+         "tilecount":64,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":50
 }
