@@ -373,7 +373,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bbb-greenlight.uni-rostock.de\/b\/jon-glz-p0j-edo"
+                 "value":"https:\/\/www.test.de"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -391,12 +391,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":" https:\/\/bbb-greenlight.uni-rostock.de\/b\/jon-btx-phc-uw2"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
+                 "value":"https:\/\/talk.fffutu.re\/b\/ros-3mp-qdm"
                 }],
          "type":"tilelayer",
          "visible":true,
