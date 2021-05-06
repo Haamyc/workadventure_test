@@ -407,7 +407,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/Haamyc\/workadventure_test\/master\/Zapf_Uni_Greifswald\/pics\/atrium_o.jpg"
+                 "value":"https:\/\/github.com\/Haamyc\/workadventure_test\/blob\/master\/Zapf_Uni_Greifswald\/pics\/atrium_m1.jpg?raw=true"
                 }],
          "type":"tilelayer",
          "visible":true,
