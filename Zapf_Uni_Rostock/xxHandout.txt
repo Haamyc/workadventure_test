@@ -36,15 +36,9 @@ X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
 X exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
 X AK-Räume markieren 
 X Entonia pixel + einbetten -> Foto
-
-- Homepage, Howto, AK-Plan, Programm ins Foyer HGW/HRO einfügen
-- BBB-Räume einbinden in die HS (3x) -> Links? 
-
-
-https://ostsee.zapf.in/programm/
-https://ostsee.zapf.in/wo-ist-was/
-AK-Plan kommt noch
-
+X Homepage, Howto, Programm ins Foyer HGW/HRO einfügen
+- AK-Plan Link einfügen 
+- BBB-Räume in den HS zum laufen bekommen (3x)  
 
 
 Optional
@@ -70,6 +64,10 @@ Feature/Erklärungen
 - 27 Seminar/Arbeitsräume über 4 Etagen mit Jitsi-Räumen 
    -> 10 Stück mit gelben Türen für die Arbeitskreise ausgewiesen  
 - Zugang zum Strand und Greifswald im Amphitheater 
+- How-to-Karten-Link im Amphitheater unten links
+- AK-Plan, Programm, How-to-Karte im Foyer im Eingangsbereich 
+
+
 
 
 Ebenenerklärung (noch nicht alles umgesetzt): 
