@@ -35,12 +35,10 @@ X Telegram-Channel ins Foyer HGW/HRO einfügen (funktioniert nicht)
 X exitUrl-Link Partykeller einfügen (Sperrblöcke entfernen)
 X exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
 X AK-Räume markieren 
+X Entonia pixel + einbetten -> Foto
 
-- Homepage ins Foyer HGW/HRO einfügen
-- AK-Plan ins Foyer HGW/HRO einfügen
+- Homepage, Howto, AK-Plan, Programm ins Foyer HGW/HRO einfügen
 - BBB-Räume einbinden in die HS (3x) -> Links? 
-- Entonia pixel + einbetten -> Foto
-- 
 
 
 https://ostsee.zapf.in/programm/
@@ -51,7 +49,7 @@ AK-Plan kommt noch
 
 Optional
 X Logos der Koop-Partner Pixeln 
-X Soundeffekte Toillete raussuchen & einbinden (Sounds werden nicht abgespielt)
+X Soundeffekte Toillete raussuchen & einbinden
 X Türbereiche überarbeiten mit Blöcken über Floorlayer (geht nicht sinnvoll)
 X Phi im EG überarbeiten
 X G bei senkrechten Wegweisern überarbeiten
@@ -59,6 +57,7 @@ X Wellen in Warnemünde hinzufügen
 X 2x Awarenesskarten Umgebung hinzufügen 
 - Port/Strandhaus in Warnemünde verbessern 
 - Etagenschilder Pixeln und einfügen 
+- Meeresrauschen und Möwe sound in WM einfügen 
 
 
 
