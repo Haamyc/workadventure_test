@@ -135,7 +135,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.8
+                 "value":0.3
                 }, 
                 {
                  "name":"playAudio",
@@ -163,7 +163,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.8
+                 "value":0.3
                 }, 
                 {
                  "name":"playAudio",
@@ -191,7 +191,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.8
+                 "value":0.3
                 }, 
                 {
                  "name":"playAudio",
@@ -219,7 +219,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.9
+                 "value":0.6
                 }, 
                 {
                  "name":"playAudio",
@@ -247,7 +247,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.9
+                 "value":0.6
                 }, 
                 {
                  "name":"playAudio",
@@ -275,7 +275,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.9
+                 "value":0.6
                 }, 
                 {
                  "name":"playAudio",
@@ -303,7 +303,7 @@
                 {
                  "name":"audioVolume",
                  "type":"float",
-                 "value":0.9
+                 "value":0.6
                 }, 
                 {
                  "name":"playAudio",
