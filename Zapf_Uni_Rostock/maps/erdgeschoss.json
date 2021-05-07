@@ -406,7 +406,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"iframe.html"
+                 "value":"index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
