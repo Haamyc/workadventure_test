@@ -399,9 +399,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":" openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/talk.fffutu.re\/b\/ros-3mp-qdm"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/openBBBHS1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -657,6 +662,12 @@
  "nextlayerid":68,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"script",
+         "type":"string",
+         "value":"sript.js"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,
