@@ -406,7 +406,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/openBBBHS1.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
