@@ -39,7 +39,7 @@ X Entonia pixel + einbetten -> Foto
 X Homepage, Howto, Programm ins Foyer HGW/HRO einfügen
 - AK-Plan Link einfügen 
 - BBB-Räume in den HS zum laufen bekommen (3x)  
-
+- Fotos vom AT und OG2 einfügen 
 
 Optional
 X Logos der Koop-Partner Pixeln 
@@ -49,9 +49,8 @@ X Phi im EG überarbeiten
 X G bei senkrechten Wegweisern überarbeiten
 X Wellen in Warnemünde hinzufügen
 X 2x Awarenesskarten Umgebung hinzufügen 
-- Port/Strandhaus in Warnemünde verbessern 
-- Etagenschilder Pixeln und einfügen 
-- Meeresrauschen und Möwe sound in WM einfügen 
+X Etagenschilder Pixeln und einfügen 
+X Meeresrauschen sound in WM einfügen 
 
 
 
