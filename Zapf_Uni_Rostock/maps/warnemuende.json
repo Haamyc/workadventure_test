@@ -112,7 +112,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/wellen4.mp3"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/wellen1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,7 +140,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/wellen3.mp3"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/wellen4.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -196,7 +196,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/wellen1.mp3"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/sounds\/wellen3.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
