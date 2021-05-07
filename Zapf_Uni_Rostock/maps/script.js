@@ -1,1 +1,1 @@
-WA.sendChatMessage('Hello world', 'Mr Robot'):
+WA.openTab('https://www.wikipedia.org/');
