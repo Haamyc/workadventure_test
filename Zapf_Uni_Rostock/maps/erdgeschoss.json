@@ -399,9 +399,14 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":" openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/talk.fffutu.re\/b\/ros-3mp-qdm"
+                 "value":"iframe.html"
                 }],
          "type":"tilelayer",
          "visible":true,
