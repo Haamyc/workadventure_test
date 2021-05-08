@@ -401,7 +401,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/index.html"
+                 "value":"index.html"
                 }],
          "type":"tilelayer",
          "visible":true,
