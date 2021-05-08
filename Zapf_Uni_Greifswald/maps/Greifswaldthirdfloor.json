@@ -463,6 +463,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/pics\/atrium_o.jpg?raw=true"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -521,7 +531,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -718,6 +728,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":50
 }
