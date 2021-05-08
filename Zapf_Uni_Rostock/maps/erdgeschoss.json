@@ -353,14 +353,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"script",
                  "type":"string",
-                 "value":"https:\/\/demo.bigbluebutton.org\/gl\/"
-                }, 
-                {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
+                 "value":"script.js"
                 }],
          "type":"tilelayer",
          "visible":true,
