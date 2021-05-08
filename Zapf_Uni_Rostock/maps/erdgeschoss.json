@@ -674,7 +674,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"openWebsite"
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
