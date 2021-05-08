@@ -439,6 +439,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen"
                 }],
          "type":"tilelayer",
          "visible":true,
