@@ -58,6 +58,7 @@ X Meeresrauschen sound in WM einfügen
 
 Feature/Erklärungen
 - Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut 
+	(Warnemünde: 4 weitere)
 - 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
 - 1 Raum der Stille pro Etage mit blauem Boden
 - 1 Zapf-Orga-Raum: Raum mit grünem Boden im 1. OG gegenüber den Toiletten
@@ -72,7 +73,6 @@ Feature/Erklärungen
 
 
 Ebenenerklärung (noch nicht alles umgesetzt): 
-
 Amphitheater (AT): 
 - Zugänge: HGW, WM, EG
 
