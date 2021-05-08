@@ -6,6 +6,7 @@ Custom Properties (Tiles)
 Custom Properties (Layer)
 - openWebsite (string) -> öffnet Website, URL angeben (bei YouTube muss es embed-Link sein)
 - openWebsiteTrigger (string) -> „onaction“
+- openWebsiteTriggerMessage (string) -> Bsp.: Klicke hier oder drücke die Leertaste um das Bild zu öffnen
 - exitUrl (string) -> URL vom Zielobjekt angeben
 - startLayer (bool) -> true Startobjekt wenn man von anderer URL kommt und darauf referenziert wird
 
