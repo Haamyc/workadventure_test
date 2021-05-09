@@ -560,6 +560,22 @@
          "id":82,
          "name":"test_script",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/maps\/index.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
