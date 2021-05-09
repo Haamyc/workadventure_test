@@ -353,9 +353,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"script",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"script.js"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal3.html"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -373,12 +378,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.test.de"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal2.html"
                 }, 
                 {
-                 "name":"openWebsitePolicy",
-                 "type":"string",
-                 "value":"fullscreen"
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -401,7 +406,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"index.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -881,6 +886,17 @@
  "nextlayerid":76,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"openWebsite",
+         "type":"string",
+         "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/h\u00f6rsaal1.html"
+        }, 
+        {
+         "name":"openWebsiteAllowApi",
+         "type":"bool",
+         "value":true
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.5.0",
  "tileheight":32,
