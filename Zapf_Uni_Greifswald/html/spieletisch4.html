@@ -1,24 +1,27 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <script src="https://play.workadventu.re/iframe_api.js"></script>
-    </head>
+class Popup {
+    /**
+     * Closes the popup
+     */
+    close() {};
+}
 
-    <body>
-	<script>
-	WA.onEnterZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
-    WA.disablePlayerControls();
-    WA.openPopup("Test", 'This is an imporant message!', [{
-        label: "Got it!",
+
+
+let helloWorldPopup;
+
+// Open the popup when we enter a given zone
+helloWorldPopup = WA.onEnterZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
+    WA.openPopup("/@/zapf/zapf_world/hgw_erdgeschoss#popupRectangle", 'Hello world!', [{
+        label: "Close",
         className: "primary",
         callback: (popup) => {
-            WA.restorePlayerControls();
+            // Close the popup when the "Close" button is pressed.
             popup.close();
         }
-    }]);
+    });
+}]);
+
+// Close the popup when we leave the zone.
+WA.onLeaveZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
+    helloWorldPopup.close();
 });
-	</script>
-    </body>
-</html>
-
-
