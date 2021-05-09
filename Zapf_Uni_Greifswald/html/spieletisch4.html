@@ -1,27 +1,21 @@
-class Popup {
-    /**
-     * Closes the popup
-     */
-    close() {};
-}
+<!doctype html>
+<html lang="en">
+    <head>
+        <script src="https://play.workadventu.re/iframe_api.js"></script>
+    </head>
 
-
-
-let helloWorldPopup;
-
-// Open the popup when we enter a given zone
-helloWorldPopup = WA.onEnterZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
-    WA.openPopup("/@/zapf/zapf_world/hgw_erdgeschoss#popupRectangle", 'Hello world!', [{
-        label: "Close",
+    <body>
+	<script>
+		WA.sendChatMessage("Hello!", 'Mr Robot');
+		WA.openTab('https://bbb-greenlight.uni-rostock.de/b/jon-glz-p0j-edo');
+		WA.openPopup("popupRectangle", 'This is an imporant message!', [{
+        label: "Got it!",
         className: "primary",
         callback: (popup) => {
-            // Close the popup when the "Close" button is pressed.
+            WA.restorePlayerControls();
             popup.close();
         }
-    });
-}]);
-
-// Close the popup when we leave the zone.
-WA.onLeaveZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
-    helloWorldPopup.close();
-});
+    }]);
+	</script>
+    </body>
+</html>

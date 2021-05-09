@@ -1,0 +1,27 @@
+class Popup {
+    /**
+     * Closes the popup
+     */
+    close() {};
+}
+
+
+
+let helloWorldPopup;
+
+// Open the popup when we enter a given zone
+helloWorldPopup = WA.onEnterZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
+    WA.openPopup("/@/zapf/zapf_world/hgw_erdgeschoss#popupRectangle", 'Hello world!', [{
+        label: "Close",
+        className: "primary",
+        callback: (popup) => {
+            // Close the popup when the "Close" button is pressed.
+            popup.close();
+        }
+    });
+}]);
+
+// Close the popup when we leave the zone.
+WA.onLeaveZone('/@/zapf/zapf_world/hgw_erdgeschoss#myZone', () => {
+    helloWorldPopup.close();
+});
