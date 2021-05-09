@@ -54,7 +54,12 @@ X 2x Awarenesskarten Umgebung hinzufügen
 X Etagenschilder Pixeln und einfügen 
 X Meeresrauschen sound in WM einfügen 
 - Schiffstute Sound einbinden 
-- 
+
+Klicke hier oder drücke die Leertaste, um das BBB-Meeting in einem neuen Tab zu öffnen!
+Klicke hier oder drücke die Leertaste, um das Bild zu öffnen!
+Klicke hier oder drücke die Leertaste, um das Video zu öffnen!
+
+
 
 
 Feature/Erklärungen
