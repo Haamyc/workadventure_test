@@ -387,7 +387,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/pictures\/AK.jpg"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/pictures\/AT_E.jpg"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -415,7 +415,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/pictures\/AT_E.jpg"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/pictures\/AK.jpg"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
