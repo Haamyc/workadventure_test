@@ -567,6 +567,11 @@
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/maps\/index.html"
                 }, 
                 {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
@@ -574,7 +579,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste um die Website zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
