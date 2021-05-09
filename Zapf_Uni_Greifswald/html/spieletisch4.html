@@ -6,8 +6,16 @@
 
     <body>
 	<script>
-		WA.openTab('https://skribbl.io/?UdfdKCTsZr36');
-		WA.sendChatMessage('Hello world', 'Mr Robot');
+		WA.disablePlayerControls();
+    WA.openPopup("/@/zapf/zapf_world/hgw_erdgeschoss#Test", 'This is an imporant message!', [{
+        label: "Got it!",
+        className: "primary",
+        callback: (popup) => {
+            WA.restorePlayerControls();
+            popup.close();
+        }
+    }]);
+
 	</script>
     </body>
 </html>
