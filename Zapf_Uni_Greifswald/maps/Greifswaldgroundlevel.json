@@ -800,6 +800,16 @@
          "name":"openWebsiteAllowApi",
          "type":"bool",
          "value":true
+        }, 
+        {
+         "name":"openWebsiteTrigger",
+         "type":"string",
+         "value":"onaction"
+        }, 
+        {
+         "name":"openWebsiteTriggerMessage",
+         "type":"string",
+         "value":"Klicke hier oder dr\u00fccke die Leertaste um den Link zu \u00f6ffnen!"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
