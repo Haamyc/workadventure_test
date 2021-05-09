@@ -399,14 +399,14 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":" openWebsiteAllowApi",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal1.html"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
