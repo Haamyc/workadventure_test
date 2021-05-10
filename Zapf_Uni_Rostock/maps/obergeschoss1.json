@@ -557,7 +557,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -585,7 +585,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -613,7 +613,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -641,7 +641,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
