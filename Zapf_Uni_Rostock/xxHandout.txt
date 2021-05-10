@@ -39,7 +39,7 @@ X AK-Räume markieren
 X Entonia pixel + einbetten -> Foto
 X Homepage, Howto, Programm ins Foyer HGW/HRO einfügen
 - AK-Plan Link einfügen 
-- BBB-Räume in den HS zum laufen bekommen (3x)  
+X BBB-Räume in den HS zum laufen bekommen (3x)  
 - Fotos von OG2 einfügen
 - Video Eldene in WM hinzufügen und verlinken
 
