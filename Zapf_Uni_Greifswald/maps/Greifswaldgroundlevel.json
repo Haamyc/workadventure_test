@@ -597,12 +597,22 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/maps\/bbb_institute.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/html\/bbb_institute.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das BBB-Meeting in einem neuen Tab zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
