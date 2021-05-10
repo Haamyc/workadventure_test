@@ -254,6 +254,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"TanzfleacheMain"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Haupttanzfl\u00e4che beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -272,6 +282,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Bar1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tresengespr\u00e4ch beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -290,6 +310,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Bar2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tresengespr\u00e4ch beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -308,6 +338,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"BarTisch1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 1 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -326,6 +366,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"BarTisch2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 2 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -344,6 +394,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"BarTisch3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 3 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -362,6 +422,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Barbereich_ohne_Musik"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Kneipe zu betreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -380,6 +450,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Jitsi_Tanzraum_Metal_West"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Metal-Keller beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -398,6 +478,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Tanzraum_Electro_Ost"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Electro-Keller beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -416,6 +506,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"billard1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Billard- und Kickertisch beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -434,6 +534,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"billard2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Billard- und Kickertisch beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -470,6 +580,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"spieltisch1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 1 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -488,6 +608,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"spieltisch2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 2 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -506,6 +636,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"spieltisch3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 3 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -552,6 +692,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"spieltisch5"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 5 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -570,6 +720,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"spieltisch6"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 6 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -588,6 +748,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"spieltisch7"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Bitte Leertaste dr\u00fccken um Tisch 7 beizutreten"
                 }],
          "type":"tilelayer",
          "visible":true,
