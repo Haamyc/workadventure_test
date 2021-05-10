@@ -820,7 +820,7 @@
         {
          "name":"openWebsiteTriggerMessage",
          "type":"string",
-         "value":"Klicke hier oder dr\u00fccke die Leertaste um den Link zu \u00f6ffnen!"
+         "value":"Klicke hier oder dr\u00fccke die Leertaste, um das BBB-Meeting in einem neuen Tab zu \u00f6ffnen!"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.6.0",
