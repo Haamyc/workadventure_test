@@ -620,7 +620,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Bitte beliebige Taste dr\u00fccken um Spiel zu \u00f6ffnen"
+                 "value":"Bitte Leertaste dr\u00fccken um Spiele ausw\u00e4hlen zu k\u00f6nnen."
                 }],
          "type":"tilelayer",
          "visible":true,
