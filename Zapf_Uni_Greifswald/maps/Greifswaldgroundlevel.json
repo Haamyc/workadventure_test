@@ -805,7 +805,7 @@
         {
          "name":"openWebsite",
          "type":"string",
-         "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/maps\/bbb_institute.html"
+         "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/html\/bbb_institute.html"
         }, 
         {
          "name":"openWebsiteAllowApi",

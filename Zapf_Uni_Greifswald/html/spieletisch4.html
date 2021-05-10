@@ -1,12 +1,15 @@
 <!doctype html>
 <html lang="en">
-		WA.sendChatMessage("Hello!", 'Mr Robot');
-		WA.openPopup("/@/zapf/zapf_world/hgw_partykeller#floorLayer", 'This is an imporant message!', [{
-        label: "Got it!",
-        className: "primary",
-        callback: (popup) => {
-            WA.restorePlayerControls();
-            popup.close();
-        }
-    }]);
+    <head>
+        <script src="https://play.workadventu.re/iframe_api.js"></script>
+    </head>
+    <body>
+	<form method="get" action="/page2">
+		<input type="button"  onclick="location.href='https://google.com';", value="Go to Google"/>
+	</form>
+			<script>
+				WA.sendChatMessage('Hello world', 'Mr Robot');
+				WA.openPopup('test123',"I am a popup message');
+			</script>
+    </body>
 </html>

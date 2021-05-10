@@ -330,7 +330,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/maps\/bbb_hoersaal.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/html\/bbb_hoersaal.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
@@ -363,7 +363,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/maps\/bbb_mv.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Greifswald\/html\/bbb_mv.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
