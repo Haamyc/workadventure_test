@@ -355,7 +355,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal3.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/H\u00f6rsaal3.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
@@ -388,7 +388,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal2.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/H\u00f6rsaal2.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
@@ -421,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/H\u00f6rsaal1.html"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/H\u00f6rsaal1.html"
                 }, 
                 {
                  "name":"openWebsiteAllowApi",
