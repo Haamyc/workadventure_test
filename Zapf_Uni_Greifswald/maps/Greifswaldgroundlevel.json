@@ -750,7 +750,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/www.gidf.de"
+                 "value":"hhttps:\/\/ostsee.zapf.in\/ak-planung"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -866,7 +866,7 @@
          "value":"Klicke hier oder dr\u00fccke die Leertaste, um das BBB-Meeting in einem neuen Tab zu \u00f6ffnen!"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.6.0",
+ "tiledversion":"1.5.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -1162,6 +1162,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.5,
  "width":50
 }

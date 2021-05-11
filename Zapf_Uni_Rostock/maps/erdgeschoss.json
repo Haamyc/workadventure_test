@@ -472,7 +472,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/ostsee.zapf.in\/ak-planung"
                 }],
          "type":"tilelayer",
          "visible":true,
