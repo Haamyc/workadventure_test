@@ -38,9 +38,9 @@ X exitUrl-Link HGW Außen einfügen (Sperrblöcke entfernen)
 X AK-Räume markieren 
 X Entonia pixel + einbetten -> Foto
 X Homepage, Howto, Programm ins Foyer HGW/HRO einfügen
-- AK-Plan Link einfügen 
+X AK-Plan Link einfügen 
 X BBB-Räume in den HS zum laufen bekommen (3x)  
-- Fotos von OG2 einfügen
+X Fotos von OG2 einfügen
 - Video Eldene in WM hinzufügen und verlinken
 
 Optional
@@ -62,8 +62,8 @@ Klicke hier oder drücke die Leertaste, um das Video zu öffnen!
 
 
 Feature/Erklärungen
-- Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut 
-	(Warnemünde: 4 weitere)
+- Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut + 4 in Warnemünde
+	
 - 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
 - 1 Raum der Stille pro Etage mit blauem Boden
 - 1 Zapf-Orga-Raum: Raum mit grünem Boden im 1. OG gegenüber den Toiletten
@@ -73,8 +73,6 @@ Feature/Erklärungen
 - Zugang zum Strand und Greifswald im Amphitheater 
 - How-to-Karten-Link im Amphitheater unten links
 - AK-Plan, Programm, How-to-Karte im Foyer im Eingangsbereich 
-
-
 
 
 Ebenenerklärung (noch nicht alles umgesetzt): 
