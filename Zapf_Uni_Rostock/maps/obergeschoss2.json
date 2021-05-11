@@ -445,7 +445,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/studybuddy.iversity.org\/de\/courses\/experimentalphysik-mechanik?utm_medium=social&utm_source=zapf_ostsee_stud&utm_campaign=102_rump02&utm_content=studybuddy_mechanik_052021 \n"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/maps\/Springer.html"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
