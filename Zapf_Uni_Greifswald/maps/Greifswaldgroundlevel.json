@@ -725,7 +725,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/IxNMvEz9Kp4"
+                 "value":"<iframe width=\"894\" height=\"503\" src=\"https:\/\/www.youtube.com\/embed\/IxNMvEz9Kp4\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -753,7 +753,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/youtu.be\/8OMf9x4mtYA"
+                 "value":"<iframe width=\"894\" height=\"503\" src=\"https:\/\/www.youtube.com\/embed\/8OMf9x4mtYA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
