@@ -857,7 +857,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"hhttps:\/\/ostsee.zapf.in\/ak-planung"
+                 "value":"https:\/\/ostsee.zapf.in\/ak-planung"
                 }],
          "type":"tilelayer",
          "visible":true,
