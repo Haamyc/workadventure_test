@@ -1,0 +1,7 @@
+Gartic Phone ist ein wenig wie Stille Post. Alle denken sich einen Satz aus. Die Sätze werden zufällig an die anderen verteilt und diese müssen den Satz dann aufzeichnen. Die Zeichnungen werden wieder weiter gegeben und jedes ZaPFikon muss das Bild beschreiben das es bekommen hat usw. usf.
+
+
+Sei eine Zelle und wachse. Iss Pellets und Zellen die kleiner sind als du, gib dich aber in acht vor größeren Zellen, da die dich essen können. Viren haben einen gezackten Rand und können auch gegessen werden, werden dich aber in mehrere kleinere Teile teilen. Es gibt noch krasse Zusatsfunktionen, aber fangt erstmal an zu spielen. :)
+
+Set
+Es gibt die vier Karteneigenschaften Farbe, Form, Füllung und Anzahl. Jede Eigenschaft hat drei Variationen. Ziel jeder Runde ist es ein Set aus drei Karten mit einer identischen Eigenschaft oder ein Set bei dem keine Eigenschaften übereinstimmen zu erkennen bevor es die anderen ZaPFika tun.
