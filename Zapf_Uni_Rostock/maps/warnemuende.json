@@ -486,7 +486,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"894\" height=\"503\" src=\"https:\/\/www.youtube.com\/embed\/S9Y9oXMwDjc\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/www.youtube.com\/embed\/S9Y9oXMwDjc"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -514,7 +514,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"894\" height=\"503\" src=\"https:\/\/www.youtube.com\/embed\/HCvqn1oJa1E\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/www.youtube.com\/embed\/HCvqn1oJa1E"
                 }, 
                 {
                  "name":"openWebsiteTrigger",

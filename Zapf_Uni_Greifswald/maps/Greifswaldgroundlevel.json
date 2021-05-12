@@ -707,7 +707,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -735,7 +735,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Video zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -753,7 +753,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"<iframe width=\"894\" height=\"503\" src=\"https:\/\/www.youtube.com\/embed\/8OMf9x4mtYA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+                 "value":"https:\/\/www.youtube.com\/embed\/8OMf9x4mtYA"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -763,7 +763,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Video zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -927,7 +927,7 @@
         {
          "name":"openWebsite",
          "type":"string",
-         "value":"<iframe width=\"894\" height=\"503\" src=\"https:\/\/www.youtube.com\/embed\/8OMf9x4mtYA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe>"
+         "value":"https:\/\/www.youtube.com\/embed\/8OMf9x4mtYA"
         }, 
         {
          "name":"openWebsiteAllowApi",
