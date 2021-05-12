@@ -608,7 +608,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -636,7 +636,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um den Link zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um den Link zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -664,7 +664,7 @@
                 {
                  "name":"openWebsiteTriggerAction",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um den Link zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um den Link zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -692,7 +692,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um den Link zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um den Link zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -720,7 +720,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Klicke hier oder dr\u00fccke die Leertaste um das Bild zu \u00f6ffnen!"
+                 "value":"Klicke hier oder dr\u00fccke die Leertaste, um das Bild zu \u00f6ffnen!"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -755,7 +755,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.6.0",
  "tileheight":32,
  "tilesets":[
         {
@@ -952,6 +952,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":50
 }
