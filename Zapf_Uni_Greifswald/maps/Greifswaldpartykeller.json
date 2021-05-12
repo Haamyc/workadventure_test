@@ -32,6 +32,12 @@
          "id":9,
          "name":"Funktion Silent",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -1208,15 +1214,6 @@
                  "properties":[
                         {
                          "name":"collides",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }, 
-                {
-                 "id":1,
-                 "properties":[
-                        {
-                         "name":"silent",
                          "type":"bool",
                          "value":true
                         }]
