@@ -740,7 +740,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/pictures\/Dia.jpg"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/pictures\/Dia.png"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -768,7 +768,12 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wolke.zapf.in\/s\/DPMdTNZxNiszrR9"
+                 "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/Briefkasten.html"
+                }, 
+                {
+                 "name":"openWebsiteAllowApi",
+                 "type":"bool",
+                 "value":true
                 }, 
                 {
                  "name":"openWebsiteTrigger",
