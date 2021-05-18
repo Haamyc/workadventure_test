@@ -9,6 +9,7 @@ Custom Properties (Layer)
 - openWebsiteTriggerMessage (string) -> Bsp.: Klicke hier oder drücke die Leertaste um das Bild zu öffnen!
 - exitUrl (string) -> URL vom Zielobjekt angeben
 - startLayer (bool) -> true Startobjekt wenn man von anderer URL kommt und darauf referenziert wird
+- playAudio (string) -> Adresse der Musikdatei einfügen 
 
 
 Layer-structure
