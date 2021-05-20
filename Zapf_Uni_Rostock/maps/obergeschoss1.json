@@ -230,6 +230,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"Orga"
+                }, 
+                {
+                 "name":"openJitsiRoomTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
