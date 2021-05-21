@@ -685,11 +685,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi10"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/Posis\/Posi10.html"
@@ -722,11 +717,6 @@
          "name":"Posi_9",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi9"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -761,11 +751,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi8"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/Posis\/Posi8.html"
@@ -798,11 +783,6 @@
          "name":"Posi_7",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi7"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -837,11 +817,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi6"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/Posis\/Posi6.html"
@@ -874,11 +849,6 @@
          "name":"Posi_5",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi5"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -913,11 +883,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi4"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/Posis\/Posi4.html"
@@ -950,11 +915,6 @@
          "name":"Posi_3",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi3"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -989,11 +949,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi2"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/Posis\/Posi2.html"
@@ -1026,11 +981,6 @@
          "name":"Posi_1",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"Posi1"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -1065,11 +1015,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe10"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/SeVes\/SeVe10.html"
@@ -1102,11 +1047,6 @@
          "name":"SeVe_9",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe9"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -1141,11 +1081,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe8"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/SeVes\/SeVe8.html"
@@ -1178,11 +1113,6 @@
          "name":"SeVe_7",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe7"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
@@ -1217,11 +1147,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe6"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/SeVes\/SeVe6.html"
@@ -1255,11 +1180,6 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe5"
-                }, 
-                {
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/haamyc.github.io\/workadventure_test\/Zapf_Uni_Rostock\/html\/SeVes\/SeVe5.html"
@@ -1292,11 +1212,6 @@
          "name":"SeVe_4",
          "opacity":1,
          "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"SeVe1"
-                }, 
                 {
                  "name":"openWebsite",
                  "type":"string",
