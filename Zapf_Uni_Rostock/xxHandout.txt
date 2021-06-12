@@ -63,8 +63,23 @@ Klicke hier oder drücke die Leertaste, um das Video zu öffnen!
 
 
 Feature/Erklärungen
-- Challeng: Finde alle 42 (UG:8, EG:9, 1.OG:8, 2.OG:10, AT:7) Enten (+ Entonia) in/am Rostocker Institut + 4 in Warnemünde
-	
+HRO UG: 8
+HRO EG: 9
+HRO OG1: 8+Entonia
+HRO OG2: 10
+HRO AT: 7
+HRO WM: 4
+HGW EG: 8
+HGW OG1: 9
+HGW OG2: 4
+HGW OG3: 10
+HGW PK: 8
+
+Gesammt: 85 + Entonia	
+
+
+
+
 - 2 Awareness-Räume: Raum mit gelbem Teppich im 2. OG hinter dem Logo-Raum
 - 1 Raum der Stille pro Etage mit blauem Boden
 - 1 Zapf-Orga-Raum: Raum mit grünem Boden im 1. OG gegenüber den Toiletten
